@@ -9,11 +9,11 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🌱 I’m currently learning **Typescript and nextjs**
 
-- 💬 Ask me about **reactjs, expressjs, nodejs, redux**
+- 💬 Ask me about **reactjs, golang, redux**
 
 - 📫 How to reach me **19chandan2002@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nQhs71AAM8BaQqH8Rpj88j1XLTWzb1d8/view?usp=sharing)
+- 📄 Know about my experiences [Resume]( https://drive.google.com/file/d/1qy7gByAun3-dv49GD7txKaTPVvObCeZC/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am ambivert**
 
